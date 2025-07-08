@@ -4,77 +4,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>¿Qué es un sitio web y una página web?</title>
-  <style>
-    body {
-      font-family: 'Segoe UI', sans-serif;
-      background: linear-gradient(to right, #4facfe, #00f2fe);
-      color: #ffffff;
-      margin: 0;
-      padding: 0;
-    }
-
-    header {
-      background-color: rgba(0, 0, 0, 0.2);
-      padding: 40px 20px;
-      text-align: center;
-    }
-
-    header h1 {
-      font-size: 2.8em;
-      margin: 0;
-    }
-
-    .container {
-      max-width: 900px;
-      margin: 40px auto;
-      background: rgba(255, 255, 255, 0.1);
-      padding: 30px;
-      border-radius: 12px;
-      box-shadow: 0 0 20px rgba(0,0,0,0.2);
-    }
-
-    .section {
-      margin-bottom: 40px;
-    }
-
-    h2 {
-      font-size: 1.8em;
-      color: #ffe600;
-    }
-
-    p {
-      font-size: 1.1em;
-      line-height: 1.6;
-    }
-
-    .img-container {
-      text-align: center;
-      margin: 20px 0;
-    }
-
-    .img-container img {
-      max-width: 100%;
-      height: auto;
-      border-radius: 10px;
-      box-shadow: 0 4px 15px rgba(0,0,0,0.3);
-    }
-
-    footer {
-      text-align: center;
-      padding: 20px;
-      background: rgba(0, 0, 0, 0.2);
-      font-size: 0.9em;
-      color: #ddd;
-    }
-
-    @media (max-width: 600px) {
-      header h1 {
-        font-size: 2em;
-      }
-    }
-  </style>
-</head>
+  
 <body>
 
   <header>
